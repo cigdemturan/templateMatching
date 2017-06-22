@@ -1,0 +1,14 @@
+The script takes "img.jpg" and "logo.png" as input.
+
+It has been implemented and testing using the versions below:
+
+OpenCV -- 3.2.0-dev
+Python -- 3.5.2
+Ubuntu -- 16.04
+
+The code works without any error in my settings. And it should work in any other images.
+
+In case of any problem, you can contact me at cigdemturan91@gmail.com
+
+2017-04-08
+Cigdem
